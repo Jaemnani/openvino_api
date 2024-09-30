@@ -20,5 +20,6 @@ https://github.com/openvinotoolkit/open_model_zoo
 ### Openvino Inference
 https://docs.openvino.ai/2024/openvino-workflow/running-inference/integrate-openvino-with-your-application.html
 
-
+### Clustering
+https://scikit-learn.org/stable/modules/clustering.html
 
